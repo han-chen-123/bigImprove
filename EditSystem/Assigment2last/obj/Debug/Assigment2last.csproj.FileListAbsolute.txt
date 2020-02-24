@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Assigment2last\Assigment2last\bin\Debug\Assigment2last.exe.config
+C:\Users\user\source\repos\Assigment2last\Assigment2last\bin\Debug\Assigment2last.exe
+C:\Users\user\source\repos\Assigment2last\Assigment2last\bin\Debug\Assigment2last.pdb
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.loginScreen.resources
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.Properties.Resources.resources
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.exe
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.pdb
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.editScreen.resources
+C:\Users\user\source\repos\Assigment2last\Assigment2last\obj\Debug\Assigment2last.newScreen.resources
