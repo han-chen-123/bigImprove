@@ -1,0 +1,7 @@
+Account Number:15981100
+First Name:han
+Last Name:chen
+Password:1234
+Address:2321312312
+Phone:3213123333
+Email:downeycwtt@gmail.com

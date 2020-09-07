@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\user\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\user\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\user\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\user\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\IT\UTS\S102\DEVELOPMENT.NET\assignment1\Bankin system Console\Assignment1\bin\Debug\Assignment1.exe.config
+C:\IT\UTS\S102\DEVELOPMENT.NET\assignment1\Bankin system Console\Assignment1\bin\Debug\Assignment1.exe
+C:\IT\UTS\S102\DEVELOPMENT.NET\assignment1\Bankin system Console\Assignment1\bin\Debug\Assignment1.pdb
+C:\IT\UTS\S102\DEVELOPMENT.NET\assignment1\Bankin system Console\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\IT\UTS\S102\DEVELOPMENT.NET\assignment1\Bankin system Console\Assignment1\obj\Debug\Assignment1.exe
+C:\IT\UTS\S102\DEVELOPMENT.NET\assignment1\Bankin system Console\Assignment1\obj\Debug\Assignment1.pdb
